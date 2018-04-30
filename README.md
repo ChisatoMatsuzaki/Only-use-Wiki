@@ -1,0 +1,2 @@
+# OnlyUseWiki
+Only use Wiki
