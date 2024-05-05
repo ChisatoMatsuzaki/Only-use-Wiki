@@ -1,2 +1,2 @@
-# my-knowledge-wiki
+# Only use Wiki
 
